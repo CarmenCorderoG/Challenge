@@ -1,0 +1,6 @@
+package com.example.mychallenge.common
+
+enum class StatusUser {
+    NAME_ERROR, MAIL_ERROR, PASSWORD_ERROR, PASSWORD_NOT_THE_SAME,
+    PASSWORD_NOT_THE_SAME_BY_USER_SAVE, INFO_SUCCESS, INFO_SUCCESS_BY_USER_SAVE
+}

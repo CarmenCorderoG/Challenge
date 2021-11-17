@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MyChallenge</string>
+    <string name="text_login">Inicia Sesion</string>
+    <string name="text_login_password"><u>Iniciar sesion por contraseña</u></string>
+    <string name="text_login_by_fingerprint"><u>Iniciar sesion por huella dactilar</u></string>
+    <string name="text_login_finger">Toca aqui para iniciar secion con huella</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_sign_in">ENTRAR</string>
+    <string name="label_user">Correo</string>
+    <string name="label_text_register">Registrate</string>
+    <string name="label_info_register">Completa todos los campos</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_info_user">Si ese no es tu nombre</string>
+    <string name="label_password_again">Repite tu contraseña</string>
+
+    <string name="label_change_user"><u>Si ese no es tu usuario inicia sesion con otra cuenta</u></string>
+
+    <string name="label_welcome">Bienvenido</string>
+    <string name="label_title_ipc">Indice de precios y cotizaciones</string>
+    <string name="label_graph_ipc">Grafica IPC del</string>
+    <string name="label_info_register_landing">Bienvenido a tu aplicacion</string>
+    <string name="label_for_values">Grafica que representa los valores de IPC en el tiempo</string>
+
+    <string name="header_label_low">Bajas</string>
+    <string name="header_label_increase">Alzas</string>
+    <string name="header_label_volume">Volumen</string>
+
+    <string name="bottom_menu_home">Home</string>
+    <string name="bottom_menu_ipc">IPC</string>
+    <string name="bottom_menu_top_tens">Top Tens del mercado</string>
+
+    <!-- Errors message -->
+    <string name="label_title_error_login">Error al iniciar sesion</string>
+    <string name="label_title_error_register">Error al registrar al usuario</string>
+    <string name="label_mail_error">Coloca un correo valido</string>
+    <string name="label_password_error">Tu contraseña debe de tener mas de 8 digitos</string>
+    <string name="label_passwords_not_equals">Las contraseñas proporcionadas no son las mismas</string>
+    <string name="label_name_error">Coloca un nombre valido</string>
+    <string name="label_error_login">El usuario o la contraseña son incorrectos</string>
+    <string name="label_error_by_password">La contraseña ingresada no corresponde a la contraseña del usuario</string>
+    <string name="label_button_accept">Aceptar</string>
+    <string name="label_error_register">Ha ocurrido un error al registrar al usuario</string>
+    <string name="label_error_mail_registrated">El correo ya se encuentra registrado</string>
+    <string name="label_generic_error">Ha ocurrido un error inesperado</string>
+
+
+
+
+</resources>
